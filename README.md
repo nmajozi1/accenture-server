@@ -2,7 +2,6 @@
 Node
 npm
 Typescript
-Mongo
 
 # run the following on your cli
 `npm install` - install all of the necessary packages 
